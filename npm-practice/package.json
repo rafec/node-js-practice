@@ -1,0 +1,21 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "Simple testing package.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "asking",
+    "questions",
+    "answer"
+  ],
+  "author": "Rafael Brizuena",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^8.1.0"
+  },
+  "type": "module"
+}
