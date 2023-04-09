@@ -11,16 +11,16 @@ const Products = db.define('Products', {
         type: DataTypes.STRING
     },
     price: {
-        type: DataType.FLOAT
+        type: DataTypes.FLOAT
     },
     quantity: {
-        type: DataType.INTEGER
+        type: DataTypes.INTEGER
     },
     createdAt: {
-        type: DataType.DATE
+        type: DataTypes.DATE
     },
     updatedAt: {
-        type: DataType.DATE
+        type: DataTypes.DATE
     }
 },
     {
